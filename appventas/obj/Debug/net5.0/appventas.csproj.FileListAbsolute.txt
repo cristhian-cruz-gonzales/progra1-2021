@@ -39,3 +39,4 @@ C:\Users\NESTOR\Desktop\cristhian usmp\programación\semana 2-lab\progra1-2021\a
 C:\Users\NESTOR\Desktop\cristhian usmp\programación\semana 2-lab\progra1-2021\appventas\obj\Debug\net5.0\appventas.pdb
 C:\Users\NESTOR\Desktop\cristhian usmp\programación\semana 2-lab\progra1-2021\appventas\obj\Debug\net5.0\appventas.genruntimeconfig.cache
 C:\Users\NESTOR\Desktop\cristhian usmp\programación\semana 2-lab\progra1-2021\appventas\obj\Debug\net5.0\appventas.csproj.CopyComplete
+C:\Users\NESTOR\Desktop\cristhian usmp\programación\semana 2-lab\progra1-2021\appventas\obj\Debug\net5.0\Razor\Views\Calculadora\Index.cshtml.g.cs
