@@ -44,6 +44,7 @@ namespace appventas.Controllers
               result =  objCalculadora.Operador1 / objCalculadora.Operador2;
                             message = "El resultado es "+ result;
 
+
             }
             }
             ViewData["Message"] = message;
